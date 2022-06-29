@@ -1,0 +1,21 @@
+{
+    "name": "Joba-theme",
+    "displayName": "Joba Color Theme",
+    "description": "A theme extension by Joba",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Joba Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Joba Theme-color-theme.json"
+            }
+        ]
+    }
+}
