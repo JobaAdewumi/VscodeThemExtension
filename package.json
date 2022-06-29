@@ -2,7 +2,7 @@
     "name": "Joba-dark-theme",
     "displayName": "Joba Dark Theme",
     "description": "A theme extension created by Joba Adewumi",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "JobaAdewumi",
     "engines": {
         "vscode": "^1.64.0"
