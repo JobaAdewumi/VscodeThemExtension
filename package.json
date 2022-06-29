@@ -1,11 +1,27 @@
 {
-    "name": "Joba-theme",
-    "displayName": "Joba Color Theme",
-    "description": "A theme extension by Joba",
+    "name": "Joba-dark-theme",
+    "displayName": "Joba Dark Theme",
+    "description": "A theme extension created by Joba Adewumi",
     "version": "0.0.1",
+    "publisher": "JobaAdewumi",
     "engines": {
         "vscode": "^1.64.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JobaAdewumi/VscodeThemExtension"
+    },
+    "keywords": [
+        "theme",
+        "joba",
+        "Joba",
+        "adewumi",
+        "Adewumi",
+        "dark theme",
+        "jobadark",
+        "Joba dark",
+        "joba dark"
+    ],
     "categories": [
         "Themes"
     ],
