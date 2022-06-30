@@ -42,7 +42,7 @@
 		"activityBarBadge.background": "#2182c2",
 		"activityBarBadge.foreground": "#1C1E26",
 		"sideBar.background": "#1a1c24",
-		"sideBar.foreground": "#2182c2",
+		"sideBar.foreground": "#D5D8DA80",
 		"sideBar.dropBackground": "#6C6F934D",
 		"sideBarSectionHeader.background": "#1C1E26",
 		"sideBarSectionHeader.foreground": "#D5D8DAB3",
@@ -58,19 +58,19 @@
 		"editorCursor.background": "#1C1E26",
 		"editorCursor.foreground": "#fe5e78",
 		"editor.selectionBackground": "#3fa08080",
-		"editor.selectionHighlightBackground": "#286f9e80",
-		"editor.wordHighlightBackground": "#286f9e80",
-		"editor.wordHighlightStrongBackground": "#286f9e80",
-		"editor.findMatchBackground": "#286f9e80",
-		"editor.findMatchHighlightBackground": "#286f9e80",
-		"editor.findRangeHighlightBackground": "#286f9e80",
-		"editor.hoverHighlightBackground": "#286f9e80",
+		"editor.selectionHighlightBackground": "#6C6F934D",
+		"editor.wordHighlightBackground": "#6C6F9380",
+		"editor.wordHighlightStrongBackground": "#6C6F9380",
+		"editor.findMatchBackground": "#6C6F9380",
+		"editor.findMatchHighlightBackground": "#6C6F934D",
+		"editor.findRangeHighlightBackground": "#6C6F931A",
+		"editor.hoverHighlightBackground": "#6C6F934D",
 		"editor.lineHighlightBackground": "#2E303E4D",
 		"editor.rangeHighlightBackground": "#2E303E80",
 		"editorIndentGuide.background": "#2E303E80",
 		"editorIndentGuide.activeBackground": "#2E303E",
-		"editorRuler.foreground": "#286f9e80",
-		"editorCodeLens.foreground": "#286f9e80",
+		"editorRuler.foreground": "#6C6F934D",
+		"editorCodeLens.foreground": "#6C6F9380",
 		"editorBracketMatch.background": "#6C6F9380",
 		"editorBracketMatch.border": "#6C6F9300",
 		"editorOverviewRuler.border": "#2E303EB3",
@@ -95,7 +95,7 @@
 		"peekViewEditor.background": "#232530",
 		"peekViewEditor.matchHighlightBackground": "#286f9e80",
 		"peekViewResult.background": "#232530",
-		"peekViewResult.matchHighlightBackground": "#286f9e80",
+		"peekViewResult.matchHighlightBackground": "#6C6F9380",
 		"peekViewResult.selectionBackground": "#2E303E80",
 		"peekViewTitle.background": "#232530",
 		"panelTitle.activeBorder": "#2182c2",
@@ -104,7 +104,7 @@
 		"statusBar.debuggingBackground": "#2182c2",
 		"statusBar.debuggingForeground": "#06060C",
 		"statusBar.noFolderBackground": "#191b22",
-		"statusBarItem.hoverBackground": "#286f9e80",
+		"statusBarItem.hoverBackground": "#2E303E",
 		"statusBarItem.prominentBackground": "#2E303E",
 		"statusBarItem.prominentHoverBackground": "#6C6F93",
 		"titleBar.activeBackground": "#16181f",
@@ -112,7 +112,7 @@
 		"extensionButton.prominentBackground": "#2182c2",
 		"extensionButton.prominentHoverBackground": "#2182c2",
 		"pickerGroup.foreground": "#2182c2",
-		"terminal.foreground": "#94cff7",
+		"terminal.foreground": "#D5D8DA",
 		"terminal.ansiBlue": "#26BBD9",
 		"terminal.ansiBrightBlue": "#3FC4DE",
 		"terminal.ansiBrightCyan": "#6BE4E6",
@@ -136,8 +136,8 @@
 		"gitDecoration.untrackedResourceForeground": "#27D797",
 		"gitDecoration.ignoredResourceForeground": "#D5D8DA4D",
 		"breadcrumbPicker.background": "#232530",
-		"menu.selectionBackground": "#286f9e80",
-		"menu.selectionBorder": "#286f9e80"
+		"menu.selectionBackground": "#6C6F9380",
+		"menu.selectionBorder": "#6C6F9380"
 
 		// "editor.background": "#263238",
 		// "editor.foreground": "#eeffff",
@@ -150,7 +150,7 @@
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a1894f85"
+				"foreground": "#9b978d85"
 			}
 		},
 		{
@@ -198,7 +198,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#31b5e9"
+				"foreground": "#fe5e78"
 			}
 		},
 		{
@@ -222,7 +222,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ca66f1"
+				"foreground": "#328aee"
 			}
 		},
 		{
@@ -252,7 +252,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#e67958"
+				"foreground": "#e06d49"
 			}
 		},
 		{
@@ -290,7 +290,7 @@
 			"name": "Entity Types",
 			"scope": ["support.type"],
 			"settings": {
-				"foreground": "#e7a2e7"
+				"foreground": "#e779e7"
 			}
 		},
 		{
