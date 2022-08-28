@@ -4,12 +4,12 @@
 	"semanticHighlighting": true,
 	"colors": {
 		"focusBorder": "#fe5e78",
-		"foreground": "#2182c2",
+		"foreground": "#5ab4f0",
 		"widget.shadow": "#16161C",
 		"errorForeground": "#fe5e78",
 		"selection.background": "#6C6F9380",
 		"textLink.activeForeground": "#fe5e78",
-		"textLink.foreground": "#2182c2",
+		"textLink.foreground": "#c24721",
 		"button.background": "#2E303E",
 		"dropdown.background": "#2E303E",
 		"dropdown.listBackground": "#2E303E",
@@ -101,7 +101,7 @@
 		"panelTitle.activeBorder": "#2182c2",
 		"statusBar.background": "#191b22",
 		"statusBar.foreground": "#D5D8DA80",
-		"statusBar.debuggingBackground": "#2182c2",
+		"statusBar.debuggingBackground": "#21c2b5",
 		"statusBar.debuggingForeground": "#06060C",
 		"statusBar.noFolderBackground": "#191b22",
 		"statusBarItem.hoverBackground": "#2E303E",
@@ -110,7 +110,7 @@
 		"titleBar.activeBackground": "#16181f",
 		"titleBar.inactiveBackground": "#1C1E26",
 		"extensionButton.prominentBackground": "#2182c2",
-		"extensionButton.prominentHoverBackground": "#2182c2",
+		"extensionButton.prominentHoverBackground": "#2174c2",
 		"pickerGroup.foreground": "#2182c2",
 		"terminal.foreground": "#D5D8DA",
 		"terminal.ansiBlue": "#26BBD9",
@@ -198,7 +198,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#fe5e78"
+				"foreground": "#dd697d"
 			}
 		},
 		{
@@ -222,14 +222,14 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#328aee"
+				"foreground": "#2c80e0"
 			}
 		},
 		{
 			"name": "Block Level Variables",
 			"scope": ["meta.block variable.other"],
 			"settings": {
-				"foreground": "#f7d16b"
+				"foreground": "#cf6bf7"
 			}
 		},
 		{
@@ -252,7 +252,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#e06d49"
+				"foreground": "#3fc4b2"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#b6f359"
+				"foreground": "#4fca55"
 			}
 		},
 		{
@@ -283,7 +283,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#f0b585"
+				"foreground": "#5ab4f0"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#a8ff61"
+				"foreground": "#96d463"
 			}
 		},
 		{
