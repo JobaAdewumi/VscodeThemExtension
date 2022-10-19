@@ -256,6 +256,13 @@
 			}
 		},
 		{
+			"name": "Css Unit",
+			"scope": ["keyword.other.unit"],
+			"settings": {
+				"foreground": "#c642e4"
+			}
+		},
+		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
